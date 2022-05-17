@@ -1,0 +1,37 @@
+[
+   {
+      "firstName": "Henrik",
+      "email": "henrik@test.se",
+      "phone": "0701222222"
+   },
+   {
+      "firstName": "Anna",
+      "email": "Annak@test.se",
+      "phone": "0701333333"
+   },
+   {
+      "firstName": "Pia",
+      "email": "Piak@test.se",
+      "phone": "0701444444"
+   },
+   {
+      "firstName": "Therese",
+      "email": "therese@hej.se",
+      "phone": "0701555555"
+   },
+   {
+      "firstName": "Therese",
+      "email": "therese@hej.se",
+      "phone": "0701555555"
+   },
+   {
+      "firstName": "Therese",
+      "email": "therese@hej.se",
+      "phone": "0701555555"
+   },
+   {
+      "firstName": "kalle",
+      "email": "kalle@hej.se",
+      "phone": "05485"
+   }
+]
